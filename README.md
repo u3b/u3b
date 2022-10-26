@@ -5,6 +5,6 @@
 
 ✨ Goals for 2022-2023 ✨
 
-🎯 Publish at least 5 blogs! [1/5 🔋]
-🎯 Contribute to three open source projects [0/3 ⭕]
-🎯 Publish some personal projects... [🤔]
+🎯 Publish at least 5 blogs! [1/5 🔋] <br />
+🎯 Contribute to three open source projects [0/3 ⭕] <br />
+🎯 Publish some personal projects... [🤔] 
